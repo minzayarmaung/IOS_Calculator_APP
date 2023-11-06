@@ -1,2 +1,1 @@
-# Learning_Kotlin
-This Repo is all about my Journey of Learning Kotlin
+Could Contains Errors. Do not clone this.
